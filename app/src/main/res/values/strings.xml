@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasketBall Score Keeper</string>
+    <string name="basketball_background">Basketball background</string>
+    <string name="starting_score">0</string>
+    <string name="team_a_heading">Team A</string>
+    <string name="heading_3_points">+3 Points</string>
+    <string name="heading_2_points">+2 Points</string>
+    <string name="heading_free_throw">Free Throw</string>
+    <string name="heading_reset_score">RESET SCORE</string>
+    <string name="heading_team_b">Team B</string>
+</resources>
