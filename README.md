@@ -7,7 +7,7 @@ ScoreKeeper is one of the project of Udacity's Android Basics Nanodegree Course.
 This project is licensed under Apache License. See the <a href="https://github.com/geekykant/ScoreKeeper/blob/master/LICENSE">LICENSE</a> for details.
 
 # Author
-All the work here has been done by <a href= "https://github.com/geekykant/">Sreekant Shenoy</a>.
+All the work here has been done by <a href= "https://github.com/geekykant/">Sreekant Shenoy</a>. Catch me on facebook <a href="www.facebook.com/iamsreekantshenoy">@sreekant</a>
 
 # Disclaimer
 Please do not submit this project if you are a student taking the Android Basics Nanodegree Course. It will be marked as a plagarized project.
